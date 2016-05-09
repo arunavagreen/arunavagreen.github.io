@@ -64,14 +64,19 @@ Even though it is better if the system can be used without documentation, it may
 
 
 
-Any wireframes - attached
-Style guide - attached
-Personal Logo - name and personal pic on website is my logo as it is my personal portfolio site
+** Any wireframes - attached
 
-The presentation should include:
+** Style guide - attached
 
-A Walk-through of your design decisions and documents
-A review of your build process - challenges, favourite parts
-A walk-through of your live site and pointing out its features
-Answer any questions from students or teachers.
+** Personal Logo - name and personal pic on website is my logo as it is my personal portfolio site
+
+** The presentation should include:
+
+* A Walk-through of your design decisions and documents
+
+* A review of your build process - challenges, favourite parts: challenges were aligning the style across the site, favorite parts were accessing the social media plugins and links
+
+* A walk-through of your live site and pointing out its features
+
+* Answer any questions from students or teachers.
 
