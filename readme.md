@@ -4,7 +4,7 @@ Readme file:
 
 1) Demonstrate your understanding of your site's audience:
 
-My personal site's design is influenced by my audience: technology professionals, employers, possible non-technical employers. They appreciate a flat design, a responsive deisgn that works on all sizes of screens, and being time-poor, a fast snapshot of personal profile through a single-page design before they can go to the links to Github, Twitter, and Linkedin profiles provided in the website. That is why my personal site is responsive, flat-minimalist with only colors provided by images and not buttons and text, and single-page.
+My personal site's design is influenced by my audience: technology professionals, employers, possible non-technical employers. They appreciate a flat design, a responsive design that works on all sizes of screens, and being time-poor, a fast snapshot of personal profile through a single-page design before they can go to the links to Github, Twitter, and Linkedin profiles provided in the website. That is why my personal site is responsive, flat-minimalist with only colors provided by images and not buttons and text, and single-page.
 
 My audience would also be receptive to a display of personality and individualism. The text in my resume, links to my Twitter profile and Linkedin profile and my images and the overall style of the site provide ample expression of my personality.  
 
